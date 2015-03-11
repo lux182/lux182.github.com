@@ -1,1 +1,8 @@
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
 丘吉尔：你能看到多远的过去就能看到多远的未来
