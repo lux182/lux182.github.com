@@ -14,4 +14,3 @@ private static <T extends Enum<T> & Opreation> void test(Class<T> opSet,double x
 }
 
 
-
