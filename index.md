@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 技术和心理学
+title: 
 tagline: 认识自己，改变自己，接受自己，爱自己
 ---
 {% include JB/setup %}
