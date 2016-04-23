@@ -369,8 +369,7 @@ name-th   : th
 name-jan  : January
 name-feb  : February
 name-mar  : March
-<!--name-apr  : April-->
-name-apr ：四月 
+name-apr  : April
 name-may  : May
 name-jun  : June
 name-jul  : July
