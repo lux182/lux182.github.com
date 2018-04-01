@@ -81,9 +81,10 @@ JB :
   #
   comments :
     #provider: false
-    provider : disqus
+    #provider : disqus
+    provider: duoshuo
     disqus :
-      short_name : jekyllbootstrap
+      short_name : lxs
     livefyre :
       site_id : 123
     intensedebate :
