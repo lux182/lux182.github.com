@@ -2,6 +2,9 @@
 layout: page
 title: 
 tagline: 认识自己，改变自己，接受自己，爱自己
+author :
+  name : ziliang liu
+  email : ironny04@gmail.com
 ---
 {% include JB/setup %}
 
