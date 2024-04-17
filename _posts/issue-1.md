@@ -1,0 +1,14 @@
+# 每周分享第 1 期
+
+这里记录过去一周，我看到的值得分享的东西。
+
+长久以来，我一直用各种方式，尝试整理我的收藏夹。最近想到，把它写成文章，共享出来，也许效果更好。
+
+## stash
+
+stashapp（[stashapp](https://github.com/stashapp/stash)）Stash is a self-hosted webapp written in Go which organizes and serves your porn.
+
+Stash gathers information about videos in your collection from the internet, and is extensible through the use of community-built plugins for a large number of content producers and sites.
+Stash supports a wide variety of both video and image formats.
+You can tag videos and find them later.
+Stash provides statistics about performers, tags, studios and more.
